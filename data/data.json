@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.insider.com/611441616fe08d0019979b97?width=700",
+    "chefName": "Julia Child",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 20,
+    "likes": 1000,
+    "chefBio": "Julia Child was an American chef, author, and television personality who introduced French cuisine and cooking techniques to the American mainstream. She is best known for her cookbook Mastering the Art of French Cooking and her TV show The French Chef.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://media.gq.com/photos/558439e609f0bee564436a65/master/w_628,h_434,c_limit/style-2012-04-10-essentials-alain-ducasse-portrait.jpg",
+    "chefName": "Alain Ducasse",
+    "yearsOfExperience": 40,
+    "numberOfRecipes": 100,
+    "likes": 2000,
+    "chefBio": "Alain Ducasse is a French-born Monégasque chef and restaurateur. He is known for his innovative French cuisine and has been awarded three Michelin stars for his restaurants in Monaco, Paris, and London.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://todaysworldkitchen.com/wp-content/uploads/2016/11/Joel-Robuchon-final-1080x675.jpg",
+    "chefName": "Paul Bocuse",
+    "yearsOfExperience": 60,
+    "numberOfRecipes": 50,
+    "likes": 1500,
+    "chefBio": "Paul Bocuse was a French chef who was known for his innovative approaches to classic French cuisine. He was awarded three Michelin stars for his restaurant near Lyon, France, and was a pioneer of nouvelle cuisine.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/bPLjfXF/ericripert-photo-may-07-1-45-51-pm-4-807242-20200520114830.jpg",
+    "chefName": "Éric Ripert",
+    "yearsOfExperience": 35,
+    "numberOfRecipes": 70,
+    "likes": 1800,
+    "chefBio": "Éric Ripert is a French chef and restaurateur. He is the chef and co-owner of Le Bernardin in New York City, which has been awarded three Michelin stars and is consistently ranked among the best restaurants in the world.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://prod-upp-image-read.ft.com/39a0f658-0336-11e7-aa5b-6bb07f5c8e12",
+    "chefName": "Anne-Sophie Pic",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 40,
+    "likes": 1200,
+    "chefBio": "Anne-Sophie Pic is a French chef and the head of Maison Pic, a family-run restaurant in southeast France. She is the only woman in France to hold three Michelin stars and is known for her inventive cuisine and use of local ingredients.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_99KRla762asPoKWWe6Cd17ev8_DRg0rzw&usqp=CAU",
+    "chefName": "Joël Robuchon",
+    "yearsOfExperience": 45,
+    "numberOfRecipes": 50,
+    "likes": 1000,
+    "chefBio": "Joël Robuchon was a French chef who is widely regarded as one of the greatest chefs of all time. He earned a total of 31 Michelin stars throughout his career, more than any other chef in history. His innovative cuisine was known for its simplicity, purity, and refinement. He passed away in 2018, but his legacy continues to inspire chefs and food lovers around the world.",
+    "recipes": [
+      {
+        "_id": 101,
+        "name": "Coq au Vin",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
+        "ingredients": [
+          "4 chicken legs",
+          "4 chicken thighs",
+          "Salt and pepper",
+          "1/4 cup all-purpose flour",
+          "4 tablespoons unsalted butter",
+          "4 ounces bacon, diced",
+          "1 onion, chopped",
+          "8 ounces button mushrooms, sliced"
+        ],
+        "cookingMethod": "1. Preheat the oven to 350°F (180°C).\n2. Season the chicken with salt and pepper, and dust with flour.\n3. Melt the butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side. Remove the chicken from the pan and set aside.\n4. Add the bacon to the pan and cook until crispy. Remove the bacon from the pan and set aside.\n5. Add the onion, mushrooms, and garlic to the pan and cook until softened, about 5 minutes. Stir in the tomato paste and cook for 1 minute.\n6. ",
+        "rating": 4.7
+      },
+      {
+        "_id": 102,
+        "name": "Ratatouille",
+        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
+        "ingredients": [
+          "1 large eggplant, diced",
+          "2 zucchinis, diced",
+          "1 red bell pepper, diced",
+          "1 yellow onion, diced",
+          "4 cloves garlic, minced",
+          "2 tablespoons olive oil",
+          "1 can (14 oz) diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 tablespoon chopped fresh thyme",
+          "1 tablespoon chopped fresh rosemary"
+        ],
+        "cookingMethod": "1. In a large skillet, heat olive oil over medium-high heat.\n2. Add eggplant and cook for 5-7 minutes, stirring occasionally, until browned.\n3. Add zucchini, bell pepper, onion, and garlic. Cook for 5-7 minutes, until vegetables are softened.\n4. Add diced tomatoes, tomato paste, thyme, rosemary, salt, and black pepper.\n5. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes, stirring occasionally.\n6. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "_id": 103,
+        "name": "Boeuf Bourguignon",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
+        "ingredients": [
+          "2 pounds beef chuck roast, cut into 2-inch pieces",
+          "6 slices bacon, chopped",
+          "2 tablespoons olive oil",
+          "2 cups red wine",
+          "2 cups beef broth",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, chopped",
+          "2 stalks celery, chopped"
+        ],
+        "cookingMethod": "1. Preheat oven to 325°F.\n2. In a large Dutch oven, cook bacon over medium heat until crispy. Remove from pan and set aside.\n3. Add olive oil to the pan and brown beef on all sides. Remove from pan and set aside.\n4. Add onion, garlic, carrots, and celery to the pan and sauté until softened.\n5. Add tomato paste and stir to combine.\n6. Add red wine and beef broth and bring to a simmer.\n7. Return beef and bacon to the pan.\n8. Add bay leaves, thyme, salt, and pepper.\n9. Cover the pan and transfer to the oven.\n10. Cook for 2-3 hours, or until beef is tender.\n11. Remove bay leaves and serve hot.",
+        "rating": 4.9
+      },
+      {
+        "_id": 104,
+        "name": "French Onion Soup",
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
+        "ingredients": [
+          "5 large yellow onions, thinly sliced",
+          "4 tablespoons butter",
+          "2 tablespoons olive oil",
+          "1 teaspoon salt",
+          "1/2 teaspoon sugar",
+          "8 cups beef broth",
+          "2 cups water",
+          "1/2 cup red wine",
+          "1/2 cup Parmesan cheese, grated",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "1. Melt butter and olive oil in a large pot over medium heat. Add onions, salt, and sugar. Cook onions, stirring occasionally, for about 45 minutes, or until caramelized.\n2. Add garlic and cook for 2-3 minutes, or until fragrant.\n3. Add beef broth, water, red wine, bay leaves, and thyme. Bring to a simmer and cook for 30 minutes.\n4. Preheat oven to 350°F.\n5. Arrange baguette slices on a baking sheet and toast in the oven for 10-15 minutes, or until crispy.",
+        "rating": 4.8
+      }
+    ]
+  }
+]
