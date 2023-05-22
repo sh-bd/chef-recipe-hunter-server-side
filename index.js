@@ -6,8 +6,8 @@ const port = process.env.PORT;
 
 app.use(cors());
 
-const chefs = require("./data/data.json")
-const slides = require("./data/slides.json")
+const chefs = require("./data/data.json");
+const slides = require("./data/slides.json");
 
 app.get('/', (req, res) => {
     res.send(`This server is running on port: ${port}`)
