@@ -21,7 +21,7 @@ app.get("/slides", (req, res) => {
 
 app.get("/chefs/:id", (req, res) => {
     const id = parseInt(req.params.id);
-    console.log(id);
+    // console.log(id);
     const selectedId = chefs.find(n => n.id === id);
     res.send(selectedId);
 });
