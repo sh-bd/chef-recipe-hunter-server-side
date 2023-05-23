@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://i.insider.com/611441616fe08d0019979b97?width=700",
-    "chefName": "Julia Child",
+    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0041.jpg?w=500&ssl=1",
+    "chefName": "Bader Najeeb",
     "yearsOfExperience": 50,
     "numberOfRecipes": 20,
     "likes": 1000,
-    "chefBio": "Julia Child was an American chef, author, and television personality who introduced French cuisine and cooking techniques to the American mainstream. She is best known for her cookbook Mastering the Art of French Cooking and her TV show The French Chef.",
+    "chefBio": "Bader Najeeb was an American chef, author, and television personality who introduced French cuisine and cooking techniques to the American mainstream. She is best known for her cookbook Mastering the Art of French Cooking and her TV show The French Chef.",
     "recipes": [
       {
         "_id": 101,
@@ -89,12 +89,12 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://media.gq.com/photos/558439e609f0bee564436a65/master/w_628,h_434,c_limit/style-2012-04-10-essentials-alain-ducasse-portrait.jpg",
-    "chefName": "Alain Ducasse",
+    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/REAL-ESTATE-Magazine-S-Pellegrino-Young-Chef-2016-Gregoire-Berger-feature.jpg?w=750&ssl=1",
+    "chefName": "Gregoire Berger",
     "yearsOfExperience": 40,
     "numberOfRecipes": 100,
     "likes": 2000,
-    "chefBio": "Alain Ducasse is a French-born Monégasque chef and restaurateur. He is known for his innovative French cuisine and has been awarded three Michelin stars for his restaurants in Monaco, Paris, and London.",
+    "chefBio": "Gregoire Berger is a French-born Monégasque chef and restaurateur. He is known for his innovative French cuisine and has been awarded three Michelin stars for his restaurants in Monaco, Paris, and London.",
     "recipes": [
       {
         "_id": 101,
@@ -177,12 +177,12 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://todaysworldkitchen.com/wp-content/uploads/2016/11/Joel-Robuchon-final-1080x675.jpg",
-    "chefName": "Paul Bocuse",
+    "chefPicture": "https://i2.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0046-1.jpg?w=1000&ssl=1",
+    "chefName": "Joudie Kalla",
     "yearsOfExperience": 60,
     "numberOfRecipes": 50,
     "likes": 1500,
-    "chefBio": "Paul Bocuse was a French chef who was known for his innovative approaches to classic French cuisine. He was awarded three Michelin stars for his restaurant near Lyon, France, and was a pioneer of nouvelle cuisine.",
+    "chefBio": "Joudie Kalla was a French chef who was known for his innovative approaches to classic French cuisine. He was awarded three Michelin stars for his restaurant near Lyon, France, and was a pioneer of nouvelle cuisine.",
     "recipes": [
       {
         "_id": 101,
@@ -265,12 +265,12 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://i.ibb.co/bPLjfXF/ericripert-photo-may-07-1-45-51-pm-4-807242-20200520114830.jpg",
-    "chefName": "Éric Ripert",
+    "chefPicture": "https://i2.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0048-1.jpg?w=600&ssl=1",
+    "chefName": "Mirette Aly",
     "yearsOfExperience": 35,
     "numberOfRecipes": 70,
     "likes": 1800,
-    "chefBio": "Éric Ripert is a French chef and restaurateur. He is the chef and co-owner of Le Bernardin in New York City, which has been awarded three Michelin stars and is consistently ranked among the best restaurants in the world.",
+    "chefBio": "Mirette Aly is a French chef and restaurateur. He is the chef and co-owner of Le Bernardin in New York City, which has been awarded three Michelin stars and is consistently ranked among the best restaurants in the world.",
     "recipes": [
       {
         "_id": 101,
@@ -353,12 +353,12 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://prod-upp-image-read.ft.com/39a0f658-0336-11e7-aa5b-6bb07f5c8e12",
-    "chefName": "Anne-Sophie Pic",
+    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/Harald-Oberender-top-ten-chefs-in-dubai.jpg?w=800&ssl=1",
+    "chefName": "Herald Oberender",
     "yearsOfExperience": 30,
     "numberOfRecipes": 40,
     "likes": 1200,
-    "chefBio": "Anne-Sophie Pic is a French chef and the head of Maison Pic, a family-run restaurant in southeast France. She is the only woman in France to hold three Michelin stars and is known for her inventive cuisine and use of local ingredients.",
+    "chefBio": "Herald Oberender is a French chef and the head of Maison Pic, a family-run restaurant in southeast France. She is the only woman in France to hold three Michelin stars and is known for her inventive cuisine and use of local ingredients.",
     "recipes": [
       {
         "_id": 101,
@@ -441,12 +441,12 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ_99KRla762asPoKWWe6Cd17ev8_DRg0rzw&usqp=CAU",
-    "chefName": "Joël Robuchon",
+    "chefPicture": "https://i0.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/OIP-4.jpg?w=474&ssl=1",
+    "chefName": "Ahmad Tawil",
     "yearsOfExperience": 45,
     "numberOfRecipes": 50,
     "likes": 1000,
-    "chefBio": "Joël Robuchon was a French chef who is widely regarded as one of the greatest chefs of all time. He earned a total of 31 Michelin stars throughout his career, more than any other chef in history. His innovative cuisine was known for its simplicity, purity, and refinement. He passed away in 2018, but his legacy continues to inspire chefs and food lovers around the world.",
+    "chefBio": "Ahmad Tawil was a French chef who is widely regarded as one of the greatest chefs of all time. He earned a total of 31 Michelin stars throughout his career, more than any other chef in history. His innovative cuisine was known for its simplicity, purity, and refinement. He passed away in 2018, but his legacy continues to inspire chefs and food lovers around the world.",
     "recipes": [
       {
         "_id": 101,
