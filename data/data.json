@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0041.jpg?w=500&ssl=1",
+    "chefPicture": "/images/chefs/IMG-0041.jpg",
     "chefName": "Bader Najeeb",
     "yearsOfExperience": 50,
     "numberOfRecipes": 20,
@@ -11,7 +11,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -29,7 +29,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -49,7 +49,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -68,7 +68,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
@@ -89,7 +89,7 @@
   },
   {
     "id": 2,
-    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/REAL-ESTATE-Magazine-S-Pellegrino-Young-Chef-2016-Gregoire-Berger-feature.jpg?w=750&ssl=1",
+    "chefPicture": "/images/chefs/REAL-ESTATE-Magazine-S-Pellegrino-Young-Chef-2016-Gregoire-Berger-feature.jpg",
     "chefName": "Gregoire Berger",
     "yearsOfExperience": 40,
     "numberOfRecipes": 100,
@@ -99,7 +99,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -117,7 +117,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -137,7 +137,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -156,7 +156,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
@@ -177,7 +177,7 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/hyjyj.jpg?w=456&ssl=1",
+    "chefPicture": "/images/chefs/hyjyj.jpg",
     "chefName": "Charles Azar",
     "yearsOfExperience": 60,
     "numberOfRecipes": 50,
@@ -187,7 +187,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -205,7 +205,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -225,7 +225,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -244,7 +244,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
@@ -265,7 +265,7 @@
   },
   {
     "id": 4,
-    "chefPicture": "https://i2.wp.com/www.arabamerica.com/wp-content/uploads/2020/09/IMG-0048-1.jpg?w=600&ssl=1",
+    "chefPicture": "/images/chefs/IMG-0048-1.jpg",
     "chefName": "Mirette Aly",
     "yearsOfExperience": 35,
     "numberOfRecipes": 70,
@@ -275,7 +275,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -293,7 +293,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -313,7 +313,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -332,7 +332,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
@@ -353,7 +353,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://i1.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/Harald-Oberender-top-ten-chefs-in-dubai.jpg?w=800&ssl=1",
+    "chefPicture": "/images/chefs/Harald-Oberender-top-ten-chefs-in-dubai.jpg",
     "chefName": "Herald Oberender",
     "yearsOfExperience": 30,
     "numberOfRecipes": 40,
@@ -363,7 +363,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -381,7 +381,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -401,7 +401,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -420,7 +420,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
@@ -441,7 +441,7 @@
   },
   {
     "id": 6,
-    "chefPicture": "https://i0.wp.com/www.arabamerica.com/wp-content/uploads/2020/11/OIP-4.jpg?w=474&ssl=1",
+    "chefPicture": "/images/chefs/OIP-4.jpg",
     "chefName": "Ahmad Tawil",
     "yearsOfExperience": 45,
     "numberOfRecipes": 50,
@@ -451,7 +451,7 @@
       {
         "_id": 101,
         "name": "Coq au Vin",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/19/Coq_au_vin_served_atop_rice.jpg",
+        "thumbnail": "/images/recipes/Coq_au_vin_served_atop_rice.jpg",
         "details": "A classic French dish of chicken cooked in red wine with bacon, mushrooms, and onions. This hearty stew is perfect for a cozy dinner on a cold evening.",
         "ingredients": [
           "4 chicken legs",
@@ -469,7 +469,7 @@
       {
         "_id": 102,
         "name": "Ratatouille",
-        "thumbnail": "https://c0.wallpaperflare.com/preview/679/1004/961/ratatouille-food-kitchen-cooking.jpg",
+        "thumbnail": "/images/recipes/ratatouille-food-kitchen-cooking.jpg",
         "details": "A traditional French vegetable stew that's hearty, healthy, and full of flavor. Made with fresh vegetables and aromatic herbs, it's a perfect dish for any time of the year.",
         "ingredients": [
           "1 large eggplant, diced",
@@ -489,7 +489,7 @@
       {
         "_id": 103,
         "name": "Boeuf Bourguignon",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Boeuf_Bourguignon_2022.jpg/640px-Boeuf_Bourguignon_2022.jpg",
+        "thumbnail": "/images/recipes/Boeuf_Bourguignon_2022.jpg",
         "details": "A classic French beef stew made with red wine, bacon, and vegetables. Slow-cooked to perfection for a comforting and hearty meal.",
         "ingredients": [
           "2 pounds beef chuck roast, cut into 2-inch pieces",
@@ -508,7 +508,7 @@
       {
         "_id": 104,
         "name": "French Onion Soup",
-        "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mmm..._French_onion_soup_%284669587391%29.jpg/800px-Mmm..._French_onion_soup_%284669587391%29.jpg?20121210204044",
+        "thumbnail": "/images/recipes/Mmm..._French_onion_soup_(4669587391).jpg",
         "details": "A comforting and rich soup made with caramelized onions, beef broth, and topped with melted cheese and bread. Perfect for a cozy dinner or lunch.",
         "ingredients": [
           "5 large yellow onions, thinly sliced",
